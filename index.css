@@ -43,16 +43,3 @@
     font-size:20px;
     font-weight:600;
     cursor:pointer;
-  }
-  .popup .popup-container h1 {
-    text-align:center;
-    font-size:30px;
-    font-family:"Raleway";
-    color:#222;
-  }
-  .popup .popup-container p {
-    margin-top:10px;
-    font-size:15px;
-    font-family:"Raleway";
-    color:#555;
-  }
